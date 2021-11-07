@@ -1,0 +1,6 @@
+*********************************
+***   Recursos Programación   ***
+*********************************
+
+https://jsonplaceholder.typicode.com/   // Free fake API for testing and prototyping.
+https://pixabay.com/    // Over 2.4 million+ high quality stock images, videos and music shared by our talented community.
