@@ -4,3 +4,4 @@
 
 https://jsonplaceholder.typicode.com/   // Free fake API for testing and prototyping.
 https://pixabay.com/    // Over 2.4 million+ high quality stock images, videos and music shared by our talented community.
+https://github.com/jhanca-vm/Svelte-Tailwind    // How To Use Tailwind in your Svelte Project
