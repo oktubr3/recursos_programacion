@@ -8,3 +8,4 @@ https://github.com/jhanca-vm/Svelte-Tailwind    // How To Use Tailwind in your S
 https://loading.io/css/   // Css Loaders
 npx svelte-add tailwindcss  # --jit   // Install Tailwind CSS Framework in Svelte Proyect
 https://www.figma.com/    // UI Design
+gh auth login   //  Login Github with Github CLI
