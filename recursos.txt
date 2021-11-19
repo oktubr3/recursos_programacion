@@ -6,6 +6,15 @@ https://jsonplaceholder.typicode.com/   // Free fake API for testing and prototy
 https://pixabay.com/    // Over 2.4 million+ high quality stock images, videos and music shared by our talented community.
 https://github.com/jhanca-vm/Svelte-Tailwind    // How To Use Tailwind in your Svelte Project
 https://loading.io/css/   // Css Loaders
-npx svelte-add tailwindcss  # --jit   // Install Tailwind CSS Framework in Svelte Proyect
 https://www.figma.com/    // UI Design
 gh auth login   //  Login Github with Github CLI
+
+
+**********
+Tailwind:*
+**********
+npx svelte-add tailwindcss # --jit  // Install Tailwind CSS Framework in Svelte Proyect
+https://tailblocks.cc/    // Tailwind Free Components
+https://www.tailwind-kit.com/started    // Tail-kit is a fully coded components KIT for Tailwind css 2.0. All components are free and open source
+https://merakiui.com/#main    // Simple Tailwind COmponents
+https://dev.to/jsco/how-to-set-up-tailwindcss-jit-with-the-new-svelte-kit-1p7b    // How to set up Tailwindcss (jit) with the new Svelte kit
