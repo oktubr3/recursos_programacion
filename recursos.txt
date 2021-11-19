@@ -14,6 +14,7 @@ gh auth login   //  Login Github with Github CLI
 Tailwind:*
 **********
 npx svelte-add tailwindcss # --jit  // Install Tailwind CSS Framework in Svelte Proyect
+https://github.com/jhanca-vm/Svelte-Tailwind  // How To Configure Tailwind (Work!)
 https://tailblocks.cc/    // Tailwind Free Components
 https://www.tailwind-kit.com/started    // Tail-kit is a fully coded components KIT for Tailwind css 2.0. All components are free and open source
 https://merakiui.com/#main    // Simple Tailwind COmponents
