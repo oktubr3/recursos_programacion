@@ -19,3 +19,9 @@ https://tailblocks.cc/    // Tailwind Free Components
 https://www.tailwind-kit.com/started    // Tail-kit is a fully coded components KIT for Tailwind css 2.0. All components are free and open source
 https://merakiui.com/#main    // Simple Tailwind COmponents
 https://dev.to/jsco/how-to-set-up-tailwindcss-jit-with-the-new-svelte-kit-1p7b    // How to set up Tailwindcss (jit) with the new Svelte kit
+
+**********
+Flexbox:*
+**********
+https://ewebik.com/flexbox    // Flexbox Generator
+https://cssflex-generator.netlify.app/    // Another Flexbox Generator
