@@ -20,8 +20,13 @@ https://www.tailwind-kit.com/started    // Tail-kit is a fully coded components 
 https://merakiui.com/#main    // Simple Tailwind COmponents
 https://dev.to/jsco/how-to-set-up-tailwindcss-jit-with-the-new-svelte-kit-1p7b    // How to set up Tailwindcss (jit) with the new Svelte kit
 
-**********
+*********
 Flexbox:*
-**********
+*********
 https://ewebik.com/flexbox    // Flexbox Generator
 https://cssflex-generator.netlify.app/    // Another Flexbox Generator
+
+**********
+Firebase:*
+**********
+https://parzibyte.me/blog/2021/11/22/firestore-web-eliminar-documento-id/   // cómo eliminar un documento (de una colección) a través de su ID al usar Firestore Database
