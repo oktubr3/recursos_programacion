@@ -2,12 +2,18 @@
 ***   Recursos Programación   ***
 *********************************
 
-https://jsonplaceholder.typicode.com/   // Free fake API for testing and prototyping.
+
 https://pixabay.com/    // Over 2.4 million+ high quality stock images, videos and music shared by our talented community.
 https://github.com/jhanca-vm/Svelte-Tailwind    // How To Use Tailwind in your Svelte Project
 https://loading.io/css/   // Css Loaders
 https://www.figma.com/    // UI Design
 gh auth login   //  Login Github with Github CLI
+
+**********
+Api REST:*
+**********
+https://jsonplaceholder.typicode.com/   // Free fake API for testing and prototyping.
+https://reqres.in/    // A hosted REST-API ready to respond to your AJAX requests.
 
 
 **********
