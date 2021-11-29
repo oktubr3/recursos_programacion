@@ -9,6 +9,8 @@ https://loading.io/css/   // Css Loaders
 https://www.figma.com/    // UI Design
 gh auth login   //  Login Github with Github CLI
 
+https://github.com/marak/Faker.js/    // faker.js - generate massive amounts of fake data in the browser and node.js
+
 **********
 Api REST:*
 **********
