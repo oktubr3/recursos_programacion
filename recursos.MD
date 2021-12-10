@@ -1,13 +1,14 @@
 
 <h1> *** Recursos Programación *** </h1>
 
-https://pixabay.com/    // Over 2.4 million+ high quality stock images, videos and music shared by our talented community.
-https://github.com/jhanca-vm/Svelte-Tailwind    // How To Use Tailwind in your Svelte Project
-https://loading.io/css/   // Css Loaders
-https://www.figma.com/    // UI Design
-gh auth login   //  Login Github with Github CLI
-
-https://github.com/marak/Faker.js/    // faker.js - generate massive amounts of fake data in the browser and node.js
+ <ul>
+<li> https://pixabay.com/    // Over 2.4 million+ high quality stock images, videos and music shared by our talented community. </li>
+<li> https://github.com/jhanca-vm/Svelte-Tailwind    // How To Use Tailwind in your Svelte Project </li>
+<li> https://loading.io/css/   // Css Loaders </li>
+<li> https://www.figma.com/    // UI Design </li>
+<li> gh auth login   //  Login Github with Github CLI </li>
+<li> https://github.com/marak/Faker.js/    // faker.js - generate massive amounts of fake data in the browser and node.js </li>
+<ul>
 
 
 <h2> Api REST: </h2>
