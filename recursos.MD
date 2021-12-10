@@ -10,7 +10,7 @@ gh auth login   //  Login Github with Github CLI
 https://github.com/marak/Faker.js/    // faker.js - generate massive amounts of fake data in the browser and node.js
 
 
-Api REST:
+<h1> Api REST: </h1>
 https://jsonplaceholder.typicode.com/   // Free fake API for testing and prototyping.
 https://reqres.in/    // A hosted REST-API ready to respond to your AJAX requests.
 
