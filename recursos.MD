@@ -48,3 +48,13 @@
 <ul>
  <li> https://www.youtube.com/watch?v=l4kGBv3Zjw8   // Implementar un Dashboard en Node JS  </li>
 </ul>
+
+<h2> Hostings to Deploy Apps: </h2>
+<ul>
+ <li> https://azure.microsoft.com  // Microsoft Azure: Cloud Computing Services </li>
+ <li> https://heroku.com // Heroku </li>
+ <li> https://firebase.google.com  // Firebase </li>
+ <li> https://cloud.google.com  // Google Cloud </li>
+ <li> https://www.digitalocean.com  // Digital Ocean </li>
+ <li> https://aws.amazon.com/es/free  // Amazon Free Tier </li>
+</ul>
