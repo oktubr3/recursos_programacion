@@ -47,6 +47,7 @@
 <h2> NodeJS: </h2>
 <ul>
  <li> https://www.youtube.com/watch?v=l4kGBv3Zjw8   // Implementar un Dashboard en Node JS  </li>
+ <li> https://www.youtube.com/watch?v=jLXMm9O1cMM&t=292s  // Strapi API REST Crud
 </ul>
 
 <h2> Hostings to Deploy Apps: </h2>
