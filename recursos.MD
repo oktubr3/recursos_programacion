@@ -10,6 +10,11 @@
  <li> https://github.com/marak/Faker.js/    // faker.js - generate massive amounts of fake data in the browser and node.js </li>
 </ul>
 
+<h2>Javascript</h2>
+<ul>
+<li> https://www.youtube.com/watch?v=gx07hzV_gQk  // 5 Metodos para Buscar en Arrays </li> 
+</ul>
+
 
 <h2> Api REST: </h2>
 <ul>
