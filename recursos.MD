@@ -20,6 +20,7 @@
 <ul>
  <li> https://jsonplaceholder.typicode.com/   // Free fake API for testing and prototyping. </li> 
  <li> https://reqres.in/    // A hosted REST-API ready to respond to your AJAX requests. </li>
+ <li> https://fakestoreapi.com/  // Fake STORE Rest API. </li>
 </ul>
 
 <h2> Tailwind: </h2>
