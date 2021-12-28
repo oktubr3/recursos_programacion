@@ -59,7 +59,11 @@
 <h2> Hostings to Deploy Apps: </h2>
 <ul>
  <li> https://azure.microsoft.com  // Microsoft Azure: Cloud Computing Services </li>
- <li> https://heroku.com // Heroku </li>
+ <li> https://heroku.com // Heroku 
+  <ul>
+   <li>https://dev.to/jessesbyers/how-to-update-a-deployed-app-on-heroku-3fde  // How To Update A Deployed App On Heroku </li>
+  </ul>
+ </li>
  <li> https://firebase.google.com  // Firebase </li>
  <li> https://cloud.google.com  // Google Cloud </li>
  <li> https://www.digitalocean.com  // Digital Ocean </li>
