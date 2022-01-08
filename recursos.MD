@@ -69,3 +69,9 @@
  <li> https://www.digitalocean.com  // Digital Ocean </li>
  <li> https://aws.amazon.com/es/free  // Amazon Free Tier </li>
 </ul>
+
+<h2> Gifs: </h2>
+<ul>
+ <li> https://giphy.com/   // Gif Animados Api </li>
+</ul>
+
