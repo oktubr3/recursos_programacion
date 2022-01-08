@@ -72,6 +72,6 @@
 
 <h2> Gifs: </h2>
 <ul>
- <li> https://giphy.com/   // Gif Animados Api </li>
+ <li> https://developers.giphy.com/   // Gif Animados Api </li>
 </ul>
 
