@@ -59,8 +59,8 @@
 <h2> Hostings to Deploy Apps: </h2>
 <ul>
  <li> https://azure.microsoft.com  // Microsoft Azure: Cloud Computing Services </li>
- <li> https://heroku.com // Heroku 
- <li> https://www.netlify.com/ </li> // Netlify
+ <li> https://heroku.com // Heroku </li>
+ <li> https://www.netlify.com/ // Netlify </li>
  <ul>
    <li>https://dev.to/jessesbyers/how-to-update-a-deployed-app-on-heroku-3fde  // How To Update A Deployed App On Heroku </li>
  </ul>
