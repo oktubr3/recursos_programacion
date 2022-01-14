@@ -60,9 +60,10 @@
 <ul>
  <li> https://azure.microsoft.com  // Microsoft Azure: Cloud Computing Services </li>
  <li> https://heroku.com // Heroku 
-  <ul>
+ <li> https://www.netlify.com/ </li> // Netlify
+ <ul>
    <li>https://dev.to/jessesbyers/how-to-update-a-deployed-app-on-heroku-3fde  // How To Update A Deployed App On Heroku </li>
-  </ul>
+ </ul>
  </li>
  <li> https://firebase.google.com  // Firebase </li>
  <li> https://cloud.google.com  // Google Cloud </li>
