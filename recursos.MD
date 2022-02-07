@@ -8,6 +8,7 @@
  <li> https://developers.giphy.com/   // Gif Animados Api </li>
  <li> https://ewebik.com/flexbox    // Flexbox Generator  </li>
  <li> https://cssflex-generator.netlify.app/    // Another Flexbox Generator </li>
+ <li> https://animate.style/    // Just-add-water CSS animations </li>
  <li>
  <h3> Tailwind: </h3>
 <ul>
@@ -69,3 +70,8 @@
 </ul>
 
 <h2>Github</h2>
+<ul>
+ <li> TODO: Add Github Cheats  </li>
+ 
+</ul>
+
