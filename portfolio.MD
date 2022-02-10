@@ -4,7 +4,7 @@
 
 <p> Indecisión         => <a href="https://indecision-si-o-no.netlify.app/"> https://indecision-si-o-no.netlify.app/ </a>  => Vue JS </p> 
 
-<p> Juego del Ahorcado => <a href="https://oktubr3.github.io/ahorcado/"> https://indecision-si-o-no.netlify.app/     </a>  => Vanilla JS </p> 
+<p> Juego del Ahorcado => <a href="https://oktubr3.github.io/ahorcado/"> https://oktubr3.github.io/ahorcado/"     </a>  => Vanilla JS </p> 
 
 <p> Popular Movies & TV Shows => <a href="https://pelis-populares.herokuapp.com/"> https://pelis-populares.herokuapp.com/ </a>  => Svelte JS </p>
 
