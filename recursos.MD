@@ -23,6 +23,13 @@
  </li>
 </ul>
 
+<h2> CDNs </h2>
+<ul>
+<li> https://cdnjs.com/  // CDNs de todo! </li> 
+</ul>
+
+
+
 <h2>Javascript</h2>
 <ul>
 <li> https://www.youtube.com/watch?v=gx07hzV_gQk  // 5 Metodos para Buscar en Arrays </li> 
