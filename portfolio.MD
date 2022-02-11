@@ -18,3 +18,4 @@
 
 <p> Simple Calculator    => <a href="https://oktubr3.github.io/simpleJSCalculator/"> https://oktubr3.github.io/simpleJSCalculator/ </a>  => Vanilla JS </p>
 
+<p> Simple Encryptor    => <a href="https://oktubr3.github.io/encriptador/"> https://oktubr3.github.io/encriptador/ </a>  => Vanilla JS </p>
