@@ -20,6 +20,7 @@ Actualizar de git a local
 
 Tags Especificar versiones
 - git tag "Nombre de version" -m"comentario"
+Ej: git tag -a v1.0.0 -m "Vuex configurado - Journal App"
 - git push --tags
 
 Verificar los commit
