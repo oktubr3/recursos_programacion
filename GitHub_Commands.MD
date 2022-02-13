@@ -41,7 +41,7 @@ git log --oneline
 git checkout --.
 ```
 
-Restaurar borra lo nuevo "forma local"
+## Restaurar borra lo nuevo "forma local"
 ```
 git reset --hard    // Commit de referencia (No debe llevar ni parentesis ni corchetes)
 ```
