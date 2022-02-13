@@ -20,7 +20,7 @@ git push
 
 ## Actualizar de Github a local
 - editar en github
-- iniciar bash en carpeta
+- iniciar una terminal en carpeta
 ```
 git pull
 ```
