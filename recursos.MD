@@ -4,6 +4,7 @@
 <ul>
  <li> https://pixabay.com/    // Over 2.4 million+ high quality stock images, videos and music shared by our talented community. </li>
  <li> https://loading.io/css/   // Css Loaders </li>
+ <li> https://vincentgarreau.com/particles.js/ </li>  // A lightweight JavaScript library for creating particles efect
  <li> https://www.figma.com/    // UI Design </li>
  <li> https://developers.giphy.com/   // Gif Animados Api </li>
  <li> https://ewebik.com/flexbox    // Flexbox Generator  </li>
