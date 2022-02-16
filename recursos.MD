@@ -77,9 +77,8 @@
  <li> https://aws.amazon.com/es/free  // Amazon Free Tier </li>
 </ul>
 
-<h2>Github</h2>
+<h2> Tools </h2>
 <ul>
- <li> TODO: Add Github Cheats  </li>
- 
+ <li> https://github.com/Gictorbit/photoshopCClinux   // Photoshop on Linux</li>
 </ul>
 
