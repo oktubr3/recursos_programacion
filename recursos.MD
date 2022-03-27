@@ -73,4 +73,3 @@
   ## Tools 
 
   * https://github.com/Gictorbit/photoshopCClinux   // Photoshop on Linux
-  * asdklfjadskljfkladjsfkl // Agregó Euge
