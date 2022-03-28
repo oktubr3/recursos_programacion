@@ -38,7 +38,7 @@ git log --oneline
 
 ## Ejecutar por ejemplo si se nos Borró una carpeta por accidente
 ```
-git checkout --.
+git checkout -- .
 ```
 
 ## Restaurar borra lo nuevo "forma local"
