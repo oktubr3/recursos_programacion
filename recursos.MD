@@ -4,7 +4,7 @@
 
   * https://pixabay.com/    // Over 2.4 million+ high quality stock images, videos and music shared by our talented community. 
   * https://loading.io/css/   // Css Loaders 
-  https://vincentgarreau.com/particles.js/   // A lightweight JavaScript library for creating particles efect
+  * https://vincentgarreau.com/particles.js/   // A lightweight JavaScript library for creating particles efect
   * https://www.figma.com/    // UI Design 
   * https://developers.giphy.com/   // Gif Animados Api 
   * https://ewebik.com/flexbox    // Flexbox Generator 
@@ -27,9 +27,6 @@
  ## CDNs 
 
  * https://cdnjs.com/  // CDNs de todo!  
-
-
-
 
 ## Javascript
 
