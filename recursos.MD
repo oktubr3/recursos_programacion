@@ -11,6 +11,7 @@
   * https://cssflex-generator.netlify.app/    // Another Flexbox Generator 
   * https://animate.style/    // Just-add-water CSS animations 
  * https://sweetalert2.github.io/   // Sweet Alerts
+ * https://color.adobe.com // Rueda de Colores
  
  ### Tailwind:
   ```
@@ -73,3 +74,7 @@
   ## Tools 
 
   * https://github.com/Gictorbit/photoshopCClinux   // Photoshop on Linux
+
+  
+
+  
