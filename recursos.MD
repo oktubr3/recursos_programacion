@@ -10,8 +10,8 @@
   * https://ewebik.com/flexbox    // Flexbox Generator 
   * https://cssflex-generator.netlify.app/    // Another Flexbox Generator 
   * https://animate.style/    // Just-add-water CSS animations 
- * https://sweetalert2.github.io/   // Sweet Alerts
- * https://color.adobe.com // Rueda de Colores
+  * https://sweetalert2.github.io/   // Sweet Alerts
+  * https://color.adobe.com // Rueda de Colores
  
  ### Tailwind:
   ```
