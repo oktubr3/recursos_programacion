@@ -12,6 +12,7 @@
   * https://animate.style/    // Just-add-water CSS animations 
   * https://sweetalert2.github.io/   // Sweet Alerts
   * https://color.adobe.com // Rueda de Colores
+  * https://svgporn.com // SVGs gratuitos
  
  ### Tailwind:
   ```
