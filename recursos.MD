@@ -73,3 +73,6 @@
   ## Tools 
 
   * https://github.com/Gictorbit/photoshopCClinux   // Photoshop on Linux
+
+  ## NUXT3
+  * https://sidebase.io/  // The productive way to build fullstack Nuxt 3 applications
