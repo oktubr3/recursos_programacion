@@ -59,6 +59,9 @@
   * https://www.youtube.com/watch?v=S4IgPTwwPBw   // Tremenda explicación de Crud en Node JS
   * https://www.youtube.com/watch?v=d5vfi-l4KWQ  // Cómo corregir las vulnerabilidades de los paquetes de un proyecto de node.
   * https://www.youtube.com/watch?v=WCyUkQ_x0MM  // Faker explicado fácil
+  * https://matiastrucido.com/2019/12/05/mi-esqueleto-para-una-api-rest-con-node-js-mongodb-jwt/  // Un Esqueleto de Api de Node bien explicado
+    https://github.com/MTrucido/API_NODE_MONGO_STARTER_PACK  // Un Esqueleto de Api de Node bien explicado
+    
 
   ## Hostings to Deploy Apps: 
 
