@@ -58,6 +58,7 @@
   * https://playwright.dev    // Libreria de Node estilo Puppetier para Webscrapping
   * https://www.youtube.com/watch?v=S4IgPTwwPBw   // Tremenda explicación de Crud en Node JS
   * https://www.youtube.com/watch?v=d5vfi-l4KWQ  // Cómo corregir las vulnerabilidades de los paquetes de un proyecto de node.
+  * https://www.youtube.com/watch?v=WCyUkQ_x0MM  // Faker explicado fácil
 
   ## Hostings to Deploy Apps: 
 
