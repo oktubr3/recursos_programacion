@@ -57,6 +57,7 @@
   * https://www.youtube.com/watch?v=jLXMm9O1cMM&t=292s  // Strapi API REST Crud
   * https://playwright.dev    // Libreria de Node estilo Puppetier para Webscrapping
   * https://www.youtube.com/watch?v=S4IgPTwwPBw   // Tremenda explicación de Crud en Node JS
+  * https://www.youtube.com/watch?v=d5vfi-l4KWQ  // Cómo corregir las vulnerabilidades de los paquetes de un proyecto de node.
 
   ## Hostings to Deploy Apps: 
 
